@@ -25,6 +25,35 @@ The goal of this project is to perform an analysis of a school district's grades
   - After the Incident: Now, Thomas High School is still part of the bottom 5 schools however passing grades for reading and math slightly decrease.
     - <img width="999" alt="Screen Shot 2022-01-16 at 11 50 56 PM" src="https://user-images.githubusercontent.com/95834653/149714845-9c71f8dc-e461-4c50-ad0e-a6b9c3eedaca.png">
 
+### Effect on Schools by grade
+There is no effect on schools by grade given the fact that the only grades not taken into account were Thomas High School's ninth grade scores.
+ - Before the Incident:
+  - Math Scores: 
+    - <img width="300" alt="Screen Shot 2022-01-16 at 11 57 22 PM" src="https://user-images.githubusercontent.com/95834653/149715511-649897d7-955a-4b0d-9fa4-242d8c72ab4d.png">
+  - Reading Scores:  
+    - <img width="297" alt="Screen Shot 2022-01-16 at 11 58 25 PM" src="https://user-images.githubusercontent.com/95834653/149715606-fb6ee094-a5f7-438d-951d-aa710348c99c.png">
+ - After the Incident:
+  - Math Scores:
+    - <img width="306" alt="Screen Shot 2022-01-16 at 11 59 22 PM" src="https://user-images.githubusercontent.com/95834653/149715699-bfa38523-41d7-44b8-aeec-c25c93f9e4e0.png">
+  - Reading Scores:
+    - <img width="308" alt="Screen Shot 2022-01-17 at 12 00 24 AM" src="https://user-images.githubusercontent.com/95834653/149715789-2b08c1f6-b4c4-4601-aa12-3bf8a16ec2c4.png">
+
+### Scores by school spending
+One would think that the more a school spends per students the better he/she would do. However this is not the case. As seen below, those schools that have less spending per student tend to have the highest overall pass percentage. this implies that there are factors different from money spent per capita that are more relevant at the time of students passing.
+- <img width="820" alt="Screen Shot 2022-01-17 at 12 01 48 AM" src="https://user-images.githubusercontent.com/95834653/149715942-195e7446-dad5-4878-a1ec-4e5e968aa32c.png">
+
+### Scores by School Size
+Small and Medium schools tend to have a higher passing percentage. This may be due to reasons such as student to faculty ratio among others.
+- <img width="761" alt="Screen Shot 2022-01-17 at 12 05 07 AM" src="https://user-images.githubusercontent.com/95834653/149716256-5273f7cf-b7d4-400d-bdb8-8bf9a7958a0c.png">
+
+### Scores by School Type
+Charter schools did a lot better than district schools in therms of passing percentages for reading and math, and overall.
+- <img width="704" alt="Screen Shot 2022-01-17 at 12 06 21 AM" src="https://user-images.githubusercontent.com/95834653/149716345-8b641b9c-6b46-49ef-b9f4-80ed31520706.png">
+
+
+
+
+
     
 
 
