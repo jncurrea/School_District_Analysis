@@ -22,7 +22,7 @@ The goal of this project is to perform an analysis of a school district's grades
 - Additional to these scores slightly changing, one can also evidence that Thomas High School is not part of the top 5 better schools after the incident.
   - Before the incident: We can evidence that Thomas High School was in the top 5 better schools with an overall pass percentage above 90%.
     - <img width="999" alt="Screen Shot 2022-01-16 at 11 46 52 PM" src="https://user-images.githubusercontent.com/95834653/149714506-a73e9a87-2d25-474c-b863-66b6f35a2fad.png">
-  - After the Incident: Now, Thomas High School is still part of the bottom 5 schools however passing grades for reading and math slightly decrease.
+  - After the Incident: Now, Thomas High School is still part of the bottom 5 schools however passing percentages for reading and math slightly decrease.
     - <img width="999" alt="Screen Shot 2022-01-16 at 11 50 56 PM" src="https://user-images.githubusercontent.com/95834653/149714845-9c71f8dc-e461-4c50-ad0e-a6b9c3eedaca.png">
 
 ### Effect on Schools by grade
@@ -47,9 +47,12 @@ Small and Medium schools tend to have a higher passing percentage. This may be d
 - <img width="761" alt="Screen Shot 2022-01-17 at 12 05 07 AM" src="https://user-images.githubusercontent.com/95834653/149716256-5273f7cf-b7d4-400d-bdb8-8bf9a7958a0c.png">
 
 ### Scores by School Type
-Charter schools did a lot better than district schools in therms of passing percentages for reading and math, and overall.
+Charter schools did a lot better than district schools in therms of passing percentages for reading and math, and overall. This may be due to the fact that charter schools are either medium or small schools and this may also indicate that students tend to understand and learn better in a smaller setting.
 - <img width="704" alt="Screen Shot 2022-01-17 at 12 06 21 AM" src="https://user-images.githubusercontent.com/95834653/149716345-8b641b9c-6b46-49ef-b9f4-80ed31520706.png">
 
+## Summary
+- Average math score decreased for Thomas High School.
+- 
 
 
 
