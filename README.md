@@ -26,17 +26,7 @@ The goal of this project is to perform an analysis of a school district's grades
     - <img width="999" alt="Screen Shot 2022-01-16 at 11 50 56 PM" src="https://user-images.githubusercontent.com/95834653/149714845-9c71f8dc-e461-4c50-ad0e-a6b9c3eedaca.png">
 
 ### Effect on Schools by grade
-There is no effect on schools by grade given the fact that the only grades not taken into account were Thomas High School's ninth grade scores.
- - Before the Incident:
-  - Math Scores: 
-    - <img width="300" alt="Screen Shot 2022-01-16 at 11 57 22 PM" src="https://user-images.githubusercontent.com/95834653/149715511-649897d7-955a-4b0d-9fa4-242d8c72ab4d.png">
-  - Reading Scores:  
-    - <img width="297" alt="Screen Shot 2022-01-16 at 11 58 25 PM" src="https://user-images.githubusercontent.com/95834653/149715606-fb6ee094-a5f7-438d-951d-aa710348c99c.png">
- - After the Incident:
-  - Math Scores:
-    - <img width="306" alt="Screen Shot 2022-01-16 at 11 59 22 PM" src="https://user-images.githubusercontent.com/95834653/149715699-bfa38523-41d7-44b8-aeec-c25c93f9e4e0.png">
-  - Reading Scores:
-    - <img width="308" alt="Screen Shot 2022-01-17 at 12 00 24 AM" src="https://user-images.githubusercontent.com/95834653/149715789-2b08c1f6-b4c4-4601-aa12-3bf8a16ec2c4.png">
+There is no effect on schools by grade given the fact that the only grades not taken into account were Thomas High School's ninth grade scores. However, for a more detailed view please contact me to jncurrea@outlook.com
 
 ### Scores by school spending
 One would think that the more a school spends per students the better he/she would do. However this is not the case. As seen below, those schools that have less spending per student tend to have the highest overall pass percentage. this implies that there are factors different from money spent per capita that are more relevant at the time of students passing.
@@ -52,8 +42,9 @@ Charter schools did a lot better than district schools in therms of passing perc
 
 ## Summary
 - Average math score decreased for Thomas High School.
-- Math passing percentage decreased by an 8.6%.
-- Reading passing percentage 
+- Math passing percentage decreased by an 0.08%.
+- Reading passing percentage decreased by a 0.29%.
+- 
 
 
 
