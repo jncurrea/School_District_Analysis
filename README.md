@@ -41,10 +41,10 @@ Charter schools did a lot better than district schools in therms of passing perc
 - <img width="704" alt="Screen Shot 2022-01-17 at 12 06 21 AM" src="https://user-images.githubusercontent.com/95834653/149716345-8b641b9c-6b46-49ef-b9f4-80ed31520706.png">
 
 ## Summary
-- Average math score decreased for Thomas High School.
+- Average math score decreased for Thomas High School by a 0.2%
+- Overall passing percentage for Thomas High School decreased by a 0.1%.
 - Math passing percentage decreased by an 0.08%.
 - Reading passing percentage decreased by a 0.29%.
-- 
 
 
 
